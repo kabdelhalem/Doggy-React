@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Doggy-React",
-    "slug": "Doggy-React",
+    "slug": "doggy-react",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,16 +15,24 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kabdelhalem.doggyreact"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.kabdelhalem.doggyreact"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "58440371-a686-42c3-a217-2807f4dfbef2"
+      }
+    },
+    "owner": "kabdelhalem"
   }
 }
