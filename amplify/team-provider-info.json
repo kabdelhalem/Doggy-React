@@ -1,0 +1,38 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-doggyreact-dev-174726-authRole",
+      "UnauthRoleArn": "arn:aws:iam::455510265254:role/amplify-doggyreact-dev-174726-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::455510265254:role/amplify-doggyreact-dev-174726-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-doggyreact-dev-174726-deployment",
+      "UnauthRoleName": "amplify-doggyreact-dev-174726-unauthRole",
+      "StackName": "amplify-doggyreact-dev-174726",
+      "StackId": "arn:aws:cloudformation:us-east-2:455510265254:stack/amplify-doggyreact-dev-174726/16ed4ac0-eeb3-11ed-a1d6-0276cce90b53",
+      "AmplifyAppId": "d1cpqdaey2dnwd"
+    },
+    "categories": {
+      "auth": {
+        "doggyreact5285e035": {}
+      }
+    }
+  },
+  "doggyreact": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-doggyreact-doggyreact-175116-authRole",
+      "UnauthRoleArn": "arn:aws:iam::890817599110:role/amplify-doggyreact-doggyreact-175116-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::890817599110:role/amplify-doggyreact-doggyreact-175116-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-doggyreact-doggyreact-175116-deployment",
+      "UnauthRoleName": "amplify-doggyreact-doggyreact-175116-unauthRole",
+      "StackName": "amplify-doggyreact-doggyreact-175116",
+      "StackId": "arn:aws:cloudformation:us-east-1:890817599110:stack/amplify-doggyreact-doggyreact-175116/9ff2a770-eeb3-11ed-9914-0e1d4b60fc0b",
+      "AmplifyAppId": "d1468b7mgsnt1"
+    },
+    "categories": {
+      "auth": {
+        "doggyreact5285e035": {}
+      }
+    }
+  }
+}
